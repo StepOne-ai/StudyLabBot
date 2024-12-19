@@ -10,7 +10,7 @@ import backs
 import data
 import db
 
-bot = telebot.TeleBot('7087891015:AAF62fohG7kXYJrgu5fIcYK1wwLRBypYJjE');
+bot = telebot.TeleBot('7087891015:AAF62foh7kXYJrgu5fIcYK1wwLRBypYJjE');
 
 users = db.get_all("visits")
 
